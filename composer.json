@@ -1,0 +1,13 @@
+{
+    "name": "yggdrasil/prevent-dependency-confusion",
+    "description": "This package exists to prevent dependency confustion attack",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Daniel Fly Nygaard",
+            "email": "daniel.nygaard@team.blue"
+        }
+    ],
+    "require": {}
+}
